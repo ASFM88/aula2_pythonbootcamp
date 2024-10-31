@@ -107,3 +107,22 @@ print("Resultado da igualdade:", resultado_igualdade)
 
 resultado_diferenca = (valor1_inteiro != valor2_inteiro)
 print("Resultado da diferença:", resultado_diferenca)
+
+# 21.Exercício 21: Conversor de Temperatura
+
+
+
+# 22.Verificador de Palíndromo
+
+
+
+# 23.Calculadora Simples
+
+
+
+# 24.Classificador de Números
+
+
+
+# 25.Conversão de Tipo com Validação
+
